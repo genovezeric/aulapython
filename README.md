@@ -6,10 +6,10 @@ O resumo das aulas está aqui
     aula3.py = string \
     aula4.py = int, float, type \
     aula5.py = boolean \
-    aula6.py = \
-    aula7.py = \
-    aula8.py = \
-    aula9.py = \
+    aula6.py = Tipos de conversão \
+    aula7.py = Variáveis \
+    aula8.py = Desafio #1 \
+    aula9.py = Algoritimos \
     aula10.py = \ 
 
 https://github.com/genovezeric/aulapython.git \
