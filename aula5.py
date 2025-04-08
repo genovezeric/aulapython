@@ -1,4 +1,5 @@
 # Tipo de dado bool (boolean)
+
 # Ao questionar algo em um programa, só existem duas respostas possiveis:
 # sim (True) ou não (False).
 # Existem vários operadores para "questionar"

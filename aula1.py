@@ -1,3 +1,5 @@
+# Comentários e Docstring
+
 # Tudo depois da Hashtag é comentário
 # Comentários o python ignora
 

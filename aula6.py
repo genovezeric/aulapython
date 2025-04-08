@@ -1,4 +1,5 @@
 # Conversão de tipo, coerção
+
 # type convertion, typecasting, coercion
 # é o ato de converter um tipo em outro
 # tipos imutáveis e primitivos 
