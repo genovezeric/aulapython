@@ -16,10 +16,10 @@ O resumo das aulas está aqui
     aula13.py = f-strings \ 
     aula14.py = Format \ 
     aula15.py = Função input \ 
-    aula16.py = \ 
-    aula17.py = \ 
-    aula18.py = \ 
-    aula19.py = \ 
+    aula16.py = if, elif, else \ 
+    aula17.py = mais if, elif, else \ 
+    aula18.py = Exemplo pra utilizar o debugger \ 
+    aula19.py = Operadores de comparação \ 
     aula20.py = \ 
     aula21.py = \ 
     aula22.py = \ 
