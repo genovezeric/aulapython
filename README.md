@@ -20,8 +20,13 @@ O resumo das aulas está aqui
     aula17.py = mais if, elif, else \ 
     aula18.py = Exemplo pra utilizar o debugger \ 
     aula19.py = Operadores de comparação \ 
-    aula20.py = \ 
-    aula21.py = \ 
-    aula22.py = \ 
+    aula20.py = Desafio #3 \
+    aula21.py = Operador Lógico and \ 
+    aula22.py = Operador Lógico or \ 
+    aula23.py = Operador lógico not \ 
+    aula24.py = Operadores in e not in \ 
+    aula25.py = Interpolação básica de strings \ 
+    aula26.py = Formatação básica de strings \ 
+    aula27.py = \ 
 
 https://github.com/genovezeric/aulapython.git \
