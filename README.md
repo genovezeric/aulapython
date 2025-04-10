@@ -1,32 +1,66 @@
-### Esses módulos são relacionados a cada aula e processo feito no python desde o básico até o avançado
+▶️ Módulos por Aula
+aula1.py – Comentários e Docstrings
 
-O resumo das aulas está aqui
-    aula1.py = Comentários e Docstring \
-    aula2.py = Separadores dentro de um print \
-    aula3.py = string \
-    aula4.py = int, float, type \
-    aula5.py = boolean \
-    aula6.py = Tipos de conversão \
-    aula7.py = Variáveis \
-    aula8.py = Desafio #1 \
-    aula9.py = Operadores Aritméticos \
-    aula10.py = Concatenação \ 
-    aula11.py = Precedencia dos operadores aritméticos \ 
-    aula12.py = Desafio #2 \ 
-    aula13.py = f-strings \ 
-    aula14.py = Format \ 
-    aula15.py = Função input \ 
-    aula16.py = if, elif, else \ 
-    aula17.py = mais if, elif, else \ 
-    aula18.py = Exemplo pra utilizar o debugger \ 
-    aula19.py = Operadores de comparação \ 
-    aula20.py = Desafio #3 \
-    aula21.py = Operador Lógico and \ 
-    aula22.py = Operador Lógico or \ 
-    aula23.py = Operador lógico not \ 
-    aula24.py = Operadores in e not in \ 
-    aula25.py = Interpolação básica de strings \ 
-    aula26.py = Formatação básica de strings \ 
-    aula27.py = \ 
+aula2.py – Separadores dentro do print
 
-https://github.com/genovezeric/aulapython.git \
+aula3.py – Trabalhando com Strings
+
+aula4.py – Tipos primitivos: int, float, type
+
+aula5.py – Tipo Booleano
+
+aula6.py – Conversão de Tipos
+
+aula7.py – Variáveis
+
+aula8.py – Desafio #1
+
+aula9.py – Operadores Aritméticos
+
+aula10.py – Concatenação de Strings
+
+aula11.py – Precedência dos Operadores Aritméticos
+
+aula12.py – Desafio #2
+
+aula13.py – Uso de f-strings
+
+aula14.py – Função format()
+
+aula15.py – Função input()
+
+aula16.py – Condicionais: if, elif, else
+
+aula17.py – Mais exemplos com condicionais
+
+aula18.py – Utilizando o Debugger
+
+aula19.py – Operadores de Comparação
+
+aula20.py – Desafio #3
+
+aula21.py – Operador Lógico and
+
+aula22.py – Operador Lógico or
+
+aula23.py – Operador Lógico not
+
+aula24.py – Operadores in e not in
+
+aula25.py – Interpolação básica de Strings
+
+aula26.py – Formatação básica de Strings
+
+aula27.py – Fatiamento de Strings
+
+aula28.py – Desafio #4
+
+aula29.py – Introdução ao Try e Except
+
+aula30.py – (em construção)
+
+aula31.py – (em construção)
+
+
+📁 Acesse o repositório completo:
+github.com/genovezeric/aulapython
