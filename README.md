@@ -1,4 +1,5 @@
-▶️ Módulos por Aula
+▶️ Módulos por Aula (Iniciante em Python)
+
 aula1.py – Comentários e Docstrings
 
 aula2.py – Separadores dentro do print
@@ -57,9 +58,11 @@ aula28.py – Desafio #4
 
 aula29.py – Introdução ao Try e Except
 
-aula30.py – (em construção)
+aula30.py – Constante
 
-aula31.py – (em construção)
+aula31.py – is e is not
+
+aula32.py - Desafio #5
 
 
 📁 Acesse o repositório completo:
