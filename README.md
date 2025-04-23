@@ -64,6 +64,19 @@ aula31.py – is e is not
 
 aula32.py - Desafio #5
 
+aula33.py - Conversas - tipos built-in
+
+aula34.py - Repetições whyle
+
+aula35.py - Repetições whyle pt2
+
+aula36.py - Operadores de Atribuição
+
+aula37.py - Repetições whyle pt3
+
+aula38.py - Repetições whyle pt4
+
+aula39.py - Desafio #6 
 
 📁 Acesse o repositório completo:
 github.com/genovezeric/aulapython
